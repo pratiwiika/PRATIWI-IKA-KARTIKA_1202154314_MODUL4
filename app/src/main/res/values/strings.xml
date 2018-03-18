@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">pratiwi ika kartika_1202154314_studycase4</string>
+    <string-array name="namaMahasiswa">
+        <item>Ika</item>
+        <item>Nana</item>
+        <item>Ayu</item>
+        <item>Firda</item>
+        <item>Labbaika</item>
+        <item>Hylda</item>
+        <item>Ranti</item>
+        <item>Ega</item>
+        <item>Hana</item>
+        <item>Fani</item>
+        <item>Hir</item>
+        <item>Ica</item>
+        <item>Khalida</item>
+        <item>Fitri</item>
+        <item>Suci</item>
+        <item>Anggit</item>
+
+    </string-array>
+</resources>
